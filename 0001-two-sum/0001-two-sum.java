@@ -2,6 +2,7 @@ class Solution {
 public int[] twoSum(int[] nums, int target) {
     	int[] indecies = new int[2];
     	int complement;
+    	boolean found = false;
     	for(int i = 0; i< nums.length; i++) {
             complement = target - nums[i];
             for(int j = 0; j < nums.length; j++){
@@ -14,12 +15,14 @@ public int[] twoSum(int[] nums, int target) {
                     		 indecies[0] = i;
                              indecies[1] = j;
                     	}
-                        break;
-                       
-                        
+                    	found = true;
+                    	break;
                     }
                 }
                 
+            }
+            if(found) {
+          	  break;
             }
     	}
 		return indecies;
