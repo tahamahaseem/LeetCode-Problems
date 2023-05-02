@@ -10,6 +10,6 @@ class Solution {
 			sum += (double) salary[i];
 		}
 		
-		return sum / (salary.length - 2);//returns sum with no min and max salary
+		return sum / (salary.length - 2);//returns average with no min and max salary
 	}
 }
