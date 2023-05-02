@@ -14,6 +14,7 @@ public int[] twoSum(int[] nums, int target) {
                     		 indecies[0] = i;
                              indecies[1] = j;
                     	}
+                        break;
                        
                         
                     }
