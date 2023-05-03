@@ -21,7 +21,8 @@ class Solution {
 			product *= product;
 			power /= 2;
 		}
-		return n < 0 ? 1 / (product * reserve) : product * reserve;// if odd, reserve is not 1.
+		 //checks if intial power was negative, if so returns the reciporal.
+		return n < 0 ? 1 / (product * reserve) : product * reserve;// if power is odd, reserve will not be 1.
 
 	}
 }
