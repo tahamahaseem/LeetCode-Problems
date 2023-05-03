@@ -21,7 +21,7 @@ class Solution {
 			product *= product;
 			power /= 2;
 		}
-		return n < 0 ? 1 / (product * reserve) : product * reserve;// if odd reserve is not 1.
+		return n < 0 ? 1 / (product * reserve) : product * reserve;// if odd, reserve is not 1.
 
 	}
 }
