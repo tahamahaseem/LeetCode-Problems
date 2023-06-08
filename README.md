@@ -7,6 +7,6 @@ Welcome to my Leet-Code Completed Answers repository! This repository contains m
 The repository is organized into different folders, each representing a specific problem or category. Inside each folder, you will find the following files:
 
 - **README.md file**: A Markdown file describing the problem statement, constraints, and examples.
-- **Program file (ex: .java, .js or .c)**: A program file containing my solution to the problem.
+- **Program File (ex: .java, .js or .c)**: A program file containing my solution to the problem.
 
 
