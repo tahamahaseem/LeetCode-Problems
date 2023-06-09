@@ -1,6 +1,6 @@
 # LeetCode-Problems
 
-Welcome to my Leet-Code repository! This repository contains my solutions to various coding problems from LeetCode, a popular platform for practicing coding skills through algorithmic challenges.
+Welcome to my LeetCode repository! This repository contains my solutions to various coding problems from LeetCode, a popular platform for practicing coding skills through algorithmic challenges.
 
 ## Repository Structure
 
