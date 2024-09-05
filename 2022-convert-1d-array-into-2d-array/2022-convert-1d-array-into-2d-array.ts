@@ -16,7 +16,7 @@ function construct2DArray(original: number[], m: number, n: number): number[][] 
             // Check if it's time to start a new row.
             if (i === nextRowIndex) {
                 // Start a new row and push it to the result.
-                result.push([original[nextRowIndex]]);
+                result.push([original[i]]);
                 // Move to the start index of the next row.
                 nextRowIndex += n;
                 // Move to the next row index.
