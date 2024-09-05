@@ -28,7 +28,7 @@ function construct2DArray(original: number[], m: number, n: number): number[][] 
                 }
             }
         }
-        // Return the constructed 2D array
+        // Return the constructed 2D array.
         return result;
     }
 }
