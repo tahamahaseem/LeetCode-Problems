@@ -9,12 +9,13 @@ function missingRolls(rolls: number[], mean: number, n: number): number[] {
         return [totalMissingValues]
     }
     else {
-        let quotient: number;
+        let quotient, rounded: number;
         let leftOverMissingValues: number = totalMissingValues
         let result: number[] = [];
         for(let observation: number = n ; observation > 0 ; observation--){
-             quotient = Math.ceil(leftOverMissingValues / observation);
-            if (quotient <= 6 && quotient >= 1) {
+            quotient = Math.ceil(leftOverMissingValues / observation);
+            rounded = Math.round(leftOverMissingValues / observation)
+            if (quotient <= 6 && quotient >= 1 && rounded <= 6 && rounded >= 1) {
                 result.push(quotient);
             } else {
                 return [];
