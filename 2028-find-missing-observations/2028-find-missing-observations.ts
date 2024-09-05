@@ -26,10 +26,11 @@ function missingRolls(rolls: number[], mean: number, n: number): number[] {
             quotient = Math.ceil(leftOverMissingValues / remainingObservations); // Calculate the maximum possible value for the current roll
             
             // Check if the calculated value is within the valid range for a dice roll (1 to 6)
-            if (quotient <= 6 && quotient >= 1) {
-                result.push(quotient); // If valid, add it to the result array.
-            } else {
+            if (quotient > 6 || quotient < 1) {
                 return []; // If not valid, return an empty array (no valid solution exists).
+            } else {
+                result.push(quotient); // If valid, add it to the result array.
+               
             }
             
             leftOverMissingValues -= quotient; //Update left overs to calculate the next maximum possible dice roll
