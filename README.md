@@ -16,10 +16,12 @@ The repository is organized into different folders, each representing a specific
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
