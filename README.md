@@ -10,3 +10,19 @@ The repository is organized into different folders, each representing a specific
 - **Program File (ex: .java, .js or .c)**: A program file containing my solution to the problem.
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics End-->
