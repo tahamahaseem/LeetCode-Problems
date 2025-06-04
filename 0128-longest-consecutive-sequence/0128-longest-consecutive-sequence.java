@@ -34,7 +34,7 @@ class Solution {
                     }
                 }
                 /*checks if the highest is still higher than the new 
-                length of consecutive numbers is found, and returns the greater */
+                length of consecutive numbers found. Returns the greater between the two */
                 highest = Math.max(highest, count);
             }
         }
