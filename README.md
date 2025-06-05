@@ -36,4 +36,8 @@ The repository is organized into different folders, each representing a specific
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
