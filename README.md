@@ -25,6 +25,7 @@ The repository is organized into different folders, each representing a specific
 | [0001-two-sum](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0567-permutation-in-string](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Union Find
 |  |
 | ------- |
@@ -45,8 +46,14 @@ The repository is organized into different folders, each representing a specific
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tahamahaseem/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
